@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35448#Herd-Record-of-the-Association-of-Breeders-of-Thorough-Bred-Neat-StockShort-Horns-Ayrshires-a_
 gutenberg_bookshelf: Animals-Domestic
 gutenberg_issued: '2011-03-02'
 gutenberg_type: Text
